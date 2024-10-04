@@ -45,6 +45,7 @@ Invite the bot to your server using this link:
 ### 💡 **Beta Notice:**
 
 🔮 **Calling all adventurers!** The bot is currently in **beta testing**, which means all campaigns and characters are **globally visible** and editable—everyone shares the same world right now. Fear not! Once the beta concludes, everything will be wiped, and the bot will officially launch with private sessions and campaigns.
+
 (Edit: updated with serverSide-main for private sessions, characters and campaigns)
 
 In the meantime, your feedback can shape its future! **To leave feedback,** simply DM `Gentle_Ego` on Discord. Every suggestion, bug report, or idea is appreciated!
