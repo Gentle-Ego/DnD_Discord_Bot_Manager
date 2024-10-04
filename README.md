@@ -1,4 +1,4 @@
-# 🐉 DnD_Discord_Bot_Manager 🎲  
+# 🐉 D&D is Easy! 🎲  
 A fully-fledged (but still in **Beta**) Discord bot designed to **revolutionize** your Dungeons & Dragons experience! Manage your characters, campaigns, sessions, and so much more—all within the comfort of your own Discord server.
 
 ⚔️ **DMs in distress? Players overwhelmed by numbers?**  
